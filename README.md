@@ -1,4 +1,7 @@
 # Android-AppListPermissionList
+Included in WiDefend Android
+
+
 Get all app list and permission list perapp and put into logcat
 
 
